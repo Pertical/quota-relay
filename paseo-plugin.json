@@ -3,7 +3,10 @@
   "name": "Quota Relay",
   "description": "Keeps agents working when a subscription runs out: resumes after the reset, or moves the task to another account with quota left.",
   "icon": "assets/icon.png",
-  "media": [],
+  "media": [
+    "assets/media/settings.png",
+    "assets/media/screen.png"
+  ],
   "requirements": {
     "paseo": ">=0.17.0"
   }
